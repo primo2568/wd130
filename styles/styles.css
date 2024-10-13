@@ -8,7 +8,7 @@ nav a{
     padding: 20px;
 }
 h1 {
-    color:darkbleu;
+    color:blueviolet;
 }
 
 main img{
@@ -16,7 +16,7 @@ main img{
     height:auto;
     border:1px solid black;
     padding:2px;
-    box-shadow: 0 0 30 px gray;
+    box-shadow: 0 0 30 px gray 0;
 }
 
 p{
@@ -25,9 +25,9 @@ p{
 aside{
     width:20rem;
     margin:1rem;
-    border:1px solid rgna(0,0,0.2);/*1*/
+    border:1px solid rgna(0,0,0.2);
     padding:1rem;
-    background-color: #eee rgba(255,250,253,alpha);
+    background-color: #eee rgba(255,250,253,3);
     color: #333;
     text-align:center;
 }
